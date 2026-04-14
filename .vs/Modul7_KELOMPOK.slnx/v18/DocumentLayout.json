@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14D280E-A4E3-6FA7-C14D-F95ECDE0AE0E}|Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj|c:\\users\\praktikan\\downloads\\modul7_kelompok\\modul7_kelompok\\jurnal7_2_103022400039.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F14D280E-A4E3-6FA7-C14D-F95ECDE0AE0E}|Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj|solutionrelative:modul7_kelompok\\jurnal7_2_103022400039.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14D280E-A4E3-6FA7-C14D-F95ECDE0AE0E}|Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj|c:\\users\\praktikan\\downloads\\modul7_kelompok\\modul7_kelompok\\jurnal_1_103022400039.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F14D280E-A4E3-6FA7-C14D-F95ECDE0AE0E}|Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj|solutionrelative:modul7_kelompok\\jurnal_1_103022400039.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jurnal7_2_103022400039.json",
+              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\jurnal7_2_103022400039.json",
+              "RelativeDocumentMoniker": "Modul7_KELOMPOK\\jurnal7_2_103022400039.json",
+              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\jurnal7_2_103022400039.json",
+              "RelativeToolTip": "Modul7_KELOMPOK\\jurnal7_2_103022400039.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T00:18:53.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jurnal_1_103022400039.json",
+              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\jurnal_1_103022400039.json",
+              "RelativeDocumentMoniker": "Modul7_KELOMPOK\\jurnal_1_103022400039.json",
+              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\jurnal_1_103022400039.json",
+              "RelativeToolTip": "Modul7_KELOMPOK\\jurnal_1_103022400039.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T00:18:23.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
