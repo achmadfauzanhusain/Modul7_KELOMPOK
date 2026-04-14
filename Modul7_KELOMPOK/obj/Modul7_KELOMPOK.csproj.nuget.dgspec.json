@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj": {}
+    "C:\\Users\\PRAKTIKAN\\source\\repos\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj": {
+    "C:\\Users\\PRAKTIKAN\\source\\repos\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj",
+        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\source\\repos\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj",
         "projectName": "Modul7_KELOMPOK",
-        "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj",
+        "projectPath": "C:\\Users\\PRAKTIKAN\\source\\repos\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\Modul7_KELOMPOK.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\obj\\",
+        "outputPath": "C:\\Users\\PRAKTIKAN\\source\\repos\\Modul7_KELOMPOK\\Modul7_KELOMPOK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
