@@ -1,0 +1,16 @@
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\bin\Debug\net10.0\Modul7_KELOMPOK.exe
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\bin\Debug\net10.0\Modul7_KELOMPOK.deps.json
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\bin\Debug\net10.0\Modul7_KELOMPOK.runtimeconfig.json
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\bin\Debug\net10.0\Modul7_KELOMPOK.dll
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\bin\Debug\net10.0\Modul7_KELOMPOK.pdb
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\Modul7_KELOMPOK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\Modul7_KELOMPOK.AssemblyInfoInputs.cache
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\Modul7_KELOMPOK.AssemblyInfo.cs
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\Modul7_KELOMPOK.csproj.CoreCompileInputs.cache
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\Modul7_KELOMPOK.sourcelink.json
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\Modul7_KELOMPOK.dll
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\refint\Modul7_KELOMPOK.dll
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\Modul7_KELOMPOK.pdb
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\Modul7_KELOMPOK.genruntimeconfig.cache
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\obj\Debug\net10.0\ref\Modul7_KELOMPOK.dll
+D:\Modul6\Modul7_KELOMPOK\Modul7_KELOMPOK\bin\Debug\net10.0\jurnal7_1_103022400104.json
